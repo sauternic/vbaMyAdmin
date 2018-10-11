@@ -1,7 +1,7 @@
 # vbaMyAdmin
 
 **Connection with VBA to SQL database (mysql MariaDB)**     
-**Or any database with the appropriate ODBC driver
+**Or any database with the appropriate ODBC driver**
 
 **Verbindung mit VBA zu einer SQL-Datenbank (mysql MariaDB)**    
 **Oder eine Datenbank mit dem entsprechenden ODBC-Treiber**
