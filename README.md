@@ -17,10 +17,10 @@ install driver:
 
 ----
 
-Driver-Name on:
+Driver-Name on:    
 C:\Windows\SysWOW64\odbcad.32.exe
   
-or 32 Bit Pc:
+or 32 Bit Pc:   
 C:\Windows\System32\odbcad.32.exe
 
 (Name: MySQL ODBC 8.0 Unicode Driver)
