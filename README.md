@@ -3,7 +3,7 @@
 **Connection with Excel-VBA to SQL database (mysql MariaDB)**     
 **Or any database with the appropriate ODBC driver**
 
-**Verbindung mit VBA zu einer SQL-Datenbank (mysql MariaDB)**    
+**Verbindung mit Excel-VBA zu einer SQL-Datenbank (mysql MariaDB)**    
 **Oder eine Datenbank mit dem entsprechenden ODBC-Treiber**
 
 ![Bild](https://github.com/sauternic/Gif_Bilder/blob/master/vbaMyAdmin1.png)
